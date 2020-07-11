@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+}
+.main{
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 250px;
+}
+h2{
+    font-size: 50px;
+}
+
+
+.stop-num div{
+    margin-top: 10px;
+    display: inline-block;
+    margin-right: 10px;
+    padding: 5px 30px;
+    color: white;
+    border-radius: 10px;
+      box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+.one{
+    background-color: #C62828;
+}
+.two{
+    background-color: #AD1457;
+}
+.three{
+    background-color: #6A1B9A;
+}
+
+button{
+    background-color: lightgrey;
+    margin-top: 20px;
+    padding: 8px 30px;
+    outline: none;
+    border: none;
+    border-radius: 30px;
+    color: white;
+}
+button:hover{
+    color: white;
+    background-color: black;
+}
+.heading{
+    margin-bottom: 20px;
+    letter-spacing: 2px;
+
+}
